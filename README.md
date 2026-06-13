@@ -65,3 +65,7 @@ Pastikan modul Apache dan MySQL pada Laragon/XAMPP Anda sudah dalam posisi aktif
 php artisan serve
 ```
 Buka browser Anda dan akses aplikasi melalui tautan: http://localhost:8000
+
+7. Link demo Youtube
+https://youtu.be/HNTmzmVf1HI
+
